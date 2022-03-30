@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boheinchan&label=Profile%20views&color=0e75b6&style=flat" alt="boheinchan" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravael**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BoHeinChan?tab=repositories](https://github.com/BoHeinChan?tab=repositories)
 
@@ -24,8 +24,13 @@
 
 <div align="center">
 
-<img width="45%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="50%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 </div>
 
+<div align="center">
+
 ![BoHeinChan's stats](https://github-readme-stats.vercel.app/api?username=BoHeinChan&show_icons=true&theme=radical)
+
+</div>
+
