@@ -1,6 +1,6 @@
-<h1 align="center">Hello, 🙋‍♂️ I'm <a href="https://github.com/BoHeinChan">Bo Hein Chan</a></h1>
+<h2 align="center">Hello, 🙋‍♂️ I'm <a href="https://github.com/BoHeinChan">Bo Hein Chan</a></h2>
  
-<h2 align="center">A Web Developer from Myanmar(Burma)</h2>
+<h3 align="center">A Web Developer from Myanmar(Burma)</h3>
 
 :star: I'm currently learning **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel and Vue.**
 
