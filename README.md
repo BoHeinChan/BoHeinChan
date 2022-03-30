@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boheinchan&label=Profile%20views&color=0e75b6&style=flat" alt="boheinchan" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravel**
+- <h4>🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravel**</h4>
 
 - 👨‍💻 All of my projects are available at [https://github.com/BoHeinChan?tab=repositories](https://github.com/BoHeinChan?tab=repositories)
 
