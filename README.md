@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravael**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BoHeinChan?tab=repositories](https://github.com/BoHeinChan?tab=repositories)
+
+
 ![Bo Hein Chan](https://github.com/BoHeinChan/BoHeinChan/blob/main/Remini20220115215217012-01.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/100024335603772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100024335603772" height="30" width="40" /></a>
