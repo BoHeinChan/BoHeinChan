@@ -1,13 +1,10 @@
-<h1 align="center">Hello 👋, I'm Bo Hein Chan</h1>
+<h1 align="center">Hello, 🙋‍♂️ I'm <a href="https://github.com/BoHeinChan">Bo Hein Chan</a></h1>
+ 
+<h2 align="center">A Web Developer from Myanmar(Burma)</h2>
 
-<h3 align="center">A Web Developer from Myanmar</h3>
+:star: I'm currently learning **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel and Vue.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boheinchan&label=Profile%20views&color=0e75b6&style=flat" alt="boheinchan" /> </p>
-
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Vue, PHP, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BoHeinChan?tab=repositories](https://github.com/BoHeinChan?tab=repositories)
-
+:man_technologist: My projects are available at https://github.com/BoHeinChan?tab=repositories
 
 ![Bo Hein Chan](https://github.com/BoHeinChan/BoHeinChan/blob/main/Remini20220115215217012-01.jpg)
 
