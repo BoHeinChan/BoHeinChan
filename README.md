@@ -23,11 +23,12 @@
 </div>
 
 <div align="center">
-<img width="50%"  alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="50%"  alt="Github" src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" />
 </div>
 
 <div align="center">
-![BoHeinChan's stats](https://github-readme-stats.vercel.app/api?username=BoHeinChan&show_icons=true&theme=radical)
+ <img width="50%"  alt="Github" src="https://github-readme-stats.vercel.app/api?username=BoHeinChan&show_icons=true&theme=dracula" />
+
 </div>
 
 
