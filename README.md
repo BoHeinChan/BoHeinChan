@@ -22,9 +22,6 @@
 <img width="50%"  alt="Github" src="https://acegif.com/wp-content/gifs/globe-9.gif" />
 </div>
 
-<div align="center">
-<img width="50%"  alt="Github" src="https://github.com/BoHeinChan/BoHeinChan/blob/main/hein.gif" />
-</div>
 
 <div align="center">
 <img width="30%"  alt="Github" src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" />
