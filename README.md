@@ -2,6 +2,8 @@
  
 <h3 align="center">A Web Developer from Myanmar(Burma)</h3>
 
+မင်္ဂလာပါခင်ဗျာ၊ ကျွန်တော်ကတော့ ဗိုလ်ဟိဏ်းချမ်းဖြစ်ပါတယ်ခင်ဗျာ
+
 :star: I'm currently learning **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel and Vue.**
 
 :man_technologist: My projects are available at https://github.com/BoHeinChan?tab=repositories
