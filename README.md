@@ -3,7 +3,7 @@
 <h3 align="center">A Web Developer from Myanmar(Burma)</h3>
 
 မင်္ဂလာပါခင်ဗျာ၊ ကျွန်တော်ကတော့ ဗိုလ်ဟိဏ်းချမ်းဖြစ်ပါတယ်ခင်ဗျာ၊ Web Development နည်းပညာတွေကို လေ့လာလိုတဲ့အတွက် Git hub ကိုအသုံးပြုရခြင်းဖြစ်ပါတယ်ခင်ဗျာ၊
-Project Repo တွေနဲ့ပတ်သတ်ပြီးလည်း Contribute လုပ်သင့်ရင်လုပ်ပေးကြပါခင်ဗျ၊ ကျေးဇူးပါဗျ
+Project Repo တွေနဲ့ပတ်သတ်ပြီးလည်း အမြင်မတော်တာရှိရင် ပြင်ဆင်သွားနိုင်ပါတယ်ခင်ဗျာ၊ ကျေးဇူးတင်ပါတယ်ခင်ဗျာ။
 
 :star: I'm currently learning **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel and Vue.**
 
