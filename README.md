@@ -1,9 +1,6 @@
 <h2 align="center">Hello, 🙋‍♂️ I'm <a href="https://github.com/BoHeinChan">Bo Hein Chan</a></h2>
  
-<h3 align="center">A Web Developer from Myanmar(Burma)</h3>
-
-မင်္ဂလာပါခင်ဗျာ၊ ကျွန်တော်ကတော့ ဗိုလ်ဟိဏ်းချမ်းဖြစ်ပါတယ်ခင်ဗျာ၊ Web Development နည်းပညာတွေကို လေ့လာလိုတဲ့အတွက် Git hub ကိုအသုံးပြုရခြင်းဖြစ်ပါတယ်ခင်ဗျာ၊
-Project Repo တွေနဲ့ပတ်သတ်ပြီးလည်း အမြင်မတော်တာရှိရင် ပြင်ဆင်သွားနိုင်ပါတယ်ခင်ဗျာ၊ ကျေးဇူးတင်ပါတယ်ခင်ဗျာ။
+<h3 align="center">Web Developer from Myanmar(Burma)</h3>
 
 :star: I'm currently learning **HTML, CSS, JavaScript, Bootstrap, PHP, Laravel and Vue.**
 
